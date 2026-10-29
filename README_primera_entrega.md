@@ -1,7 +1,7 @@
-# Sistema de Mensajería Distribuida P2P
+# Sistema de Mensajería Distribuida P2P: Correspondiente a la primera entrega
 
 Implementación de mensajería distribuida por sockets TCP con programación paralela (hilos).  
-**Materia:** Sistemas Distribuidos — Maestría  
+**Materia:** Sistemas Distribuidos  
 **Entorno:** Debian 12 (Bookworm) en VMs KVM/QEMU sobre Fedora
 
 ---
